@@ -3,7 +3,7 @@
 This script will detect canary token in microsoft word documents. It prevent tracking via canary tokens.
 ## How to run?
 This script tested on Kali Linux & MacOS,Unzip package must be install on your Linux or Mac system. you can install it on debian linux via following commands
-## 生成文件等
+## Generate canarytokens(url/word/pdf...)
 https://canarytokens.org/generate
 #### <code>apt-get install unzip</code>
 give executable permission.
